@@ -2,7 +2,8 @@
 Created by:  Rami Jaber
 
 Video Demonstration:  https://youtu.be/s2AKkkw8Ew4
-Git hub:  
+
+Git hub:  https://github.com/Rami-Jaber/Lab6_ee104.git
 
 To run these programs, you must install all the packages used such as:
 tensorflow
