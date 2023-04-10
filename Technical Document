@@ -1,0 +1,22 @@
+Created by:  Rami Jaber
+
+This is the technical document to get everything needed for the programs to run without problems:
+
+Keep everything in the same directory
+To use CNN and CNNbaaseline:
+Download the python .zip file from:  https://www.cs.toronto.edu/~kriz/cifar.html
+extract into the directory with all the codes
+
+pip install tensorflow
+            keras
+            matplotlib
+            numpy
+            h5py
+When the code finishes running a .h5 file will generate and is used in test_image.
+
+To use openai:
+Download openai-quickstart-python from https://platform.openai.com/docs/quickstart
+pip install all the everything listed in requirements.txt using: pip install -r requirements.txt
+
+To use Garden.py:
+Ensure the code is saved in the same directory as the image folder
